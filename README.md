@@ -1,16 +1,16 @@
-## Hi there 👋
+## 👋 About me
 
-<!--
-**victorg-dev/victorg-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🖥️ I've just started coding in the last year
+- 🛠 I’m currently working on tools for video games
+- 🐍 I’m learning Python and Java at the moment
+- 💡 Looking for interesting problems to solve
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech I'm Using
+
+[![My Skills](https://skillicons.dev/icons?i=java,py,git,linux,apple&perline=5)](https://skillicons.dev)
+
+### Tech I Want to Learn
+
+[![My Skills](https://skillicons.dev/icons?i=aws,c,cpp,docker,githubactions,go,kubernetes,vim,postgres&perline=5)](https://skillicons.dev)
