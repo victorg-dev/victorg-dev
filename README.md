@@ -14,5 +14,3 @@
 ### Tech I Want to Learn
 
 [![My Skills](https://skillicons.dev/icons?i=spring,c,js,ts,docker,githubactions,kubernetes,aws,vim,postgres&perline=5)](https://skillicons.dev)
-
-## Contributing
