@@ -13,4 +13,4 @@
 
 ### Tech I Want to Learn
 
-[![My Skills](https://skillicons.dev/icons?i=bash,vim,docker,kubernetes,aws,githubactions,postgres,go&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,vim,nginx,docker,aws,githubactions,ansible,terraform,kubernetes,prometheus,grafana&perline=6)](https://skillicons.dev)
