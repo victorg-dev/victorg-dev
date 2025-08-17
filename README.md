@@ -1,8 +1,8 @@
 ## 👋 About me
 
 - 🖥️ I've just started coding in the last year
-- 🛠 I’m currently working on tools for video games
-- 🐍 I’m learning Python and Java at the moment
+- 🛠 I’m currently working on my homelab
+- 🐧 I’m learning Linux, Ansible and Docker at the moment
 - 💡 Looking for interesting problems to solve
 
 ---
